@@ -1,12 +1,9 @@
-# Project Team 2
+# Todo Project
 
 
 
 ## Getting started
-![webpage image](https://gitlab.tamk.cloud/courses/web-software-production-5g00dm04/3004/project-team-2/-/raw/main/Frontend%20web%20page.png?inline=false)
-
-## Server address and endpoints
-http://172.16.5.50
+![webpage image](https://raw.githubusercontent.com/SubriaIs/Todo/main/Frontend%20web%20page.png)
 
 
 ## Features
@@ -28,7 +25,7 @@ http://172.16.5.50
 
 ## Team members
 
-- Subria Islam
+- Subria Islam (backend, docker, CI/CD)
 - Yajun Guo (frontend contibutor)
 
 ## Instructions for running the application locally
@@ -46,16 +43,5 @@ http://172.16.5.50
 - In terminal, use **npm run test** to run all tests.
 - Move to frontend directory, use **npm run test** to run test for frontend.
 
-## Completed Phases
-Phase 1;
-Phase 2;
-Phase 3;
-Phase 4;
-Phase 5;
-
-# Expected project grade and the reasoning behind it
-- Expected grade 5.
-- Phase 1 - 4 is done which needed for the basic application.
-- Extra features is added for phase 5.
 
 
