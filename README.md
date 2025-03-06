@@ -22,12 +22,6 @@
 - User can delete items by clicking on "Delete" button at the end of each item.
 - User can mark items as compelete by checking the checkbox.
 
-
-## Team members
-
-- Subria Islam (backend, docker, CI/CD)
-- Yajun Guo (frontend contibutor)
-
 ## Instructions for running the application locally
 - for backend and frontend Dockerfile was made
 - docker-compose.yml file was made in root directory.
